@@ -1,0 +1,20 @@
+# ----- Python -----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----- Logs -----
+*.log
+
+# ----- Virtual Environments -----
+venv/
+env/
+
+# ----- OS Files -----
+.DS_Store
+Thumbs.db
+
+# ----- Editor Settings -----
+.vscode/
+.idea/
