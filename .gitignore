@@ -1,20 +1,26 @@
-# ----- Python -----
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# ----- Logs -----
-*.log
+# Build folders
+build/
+dist/
+*.spec
 
-# ----- Virtual Environments -----
-venv/
-env/
-
-# ----- OS Files -----
+# OS files
 .DS_Store
 Thumbs.db
 
-# ----- Editor Settings -----
+# IDE settings
 .vscode/
 .idea/
+
+# Executable files
+*.exe
+*.log
+
+# Optional: Python environment
+env/
+venv/
