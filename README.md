@@ -2,6 +2,10 @@
 A classic 2D Ping Pong game developed using Python's Turtle graphics library. This game allows two players to control paddles to hit the ball and prevent it from passing their
 side of the screen.
 
+## Version
+Current Release: **v1.0.0**
+
+
 ## 📸 Screenshot
 
 ![Ping Pong Game Screenshot](assets/screenshot.png)
